@@ -1,4 +1,4 @@
-grafana/grafana:main-ubuntu
+prom/prometheus:latest
 
 
 
