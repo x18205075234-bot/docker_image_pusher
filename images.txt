@@ -1,4 +1,4 @@
-quay.io/prometheus/prometheus:v3.5.0
+grafana/grafana:latest
 
 
 
