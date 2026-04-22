@@ -1,4 +1,4 @@
-prom/prometheus:latest
+prometheus/prometheus:v3.5.0
 
 
 
