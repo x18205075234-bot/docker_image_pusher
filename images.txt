@@ -1,1 +1,1 @@
-sonarqube:community
+postgres:16
