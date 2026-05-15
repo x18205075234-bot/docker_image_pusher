@@ -1,1 +1,1 @@
-quay-mirror.qiniu.com/external_storage/nfs-client-provisioner:latest
+registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
